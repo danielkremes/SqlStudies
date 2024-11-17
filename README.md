@@ -1,0 +1,6 @@
+# Studies about SQL
+- CREATE TABLE, INSERT INTO
+- SELECT(DISTINCT, TOP, SUM, AVG, MIN, MAX, COUNT, AS)
+- WHERE STATEMENT(<, >, <>, LIKE, AND, OR, LIKE)
+
+# last update: 11/16/2024
