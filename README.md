@@ -6,4 +6,7 @@
 	- WHERE STATEMENT(<, >, <>, LIKE, AND, OR, LIKE, NULL, IS NOT NULL, IN)
 	- GROUP BY, ORDER BY
 
-# last update: 11/18/2024
+## SQL intermediare:
+       - INNER JOINS
+
+# last update: 11/19/2024
