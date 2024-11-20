@@ -8,5 +8,6 @@
 
 ## SQL intermediare:
        - INNER JOINS
+       - UNION/UNION OPERATOR
 
-# last update: 11/19/2024
+# last update: 11/20/2024
