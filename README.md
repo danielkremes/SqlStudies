@@ -9,5 +9,7 @@
 ## SQL intermediare:
        - INNER JOINS
        - UNION/UNION OPERATOR
+       - CASE WHEN
+       - HAVING
 
-# last update: 11/20/2024
+# last update: 11/21/2024

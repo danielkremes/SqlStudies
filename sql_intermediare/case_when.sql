@@ -1,0 +1,31 @@
+--SELECT * FROM dbo.employeeDemograph as a
+--INNER JOIN dbo.employSalary as b on
+--a.employID = b.employID
+--WHERE b.salary > 500
+
+--SELECT *, 
+--CASE 
+--	WHEN a.age > 20 THEN 'Young'
+--	ELSE 'old'
+--END
+--FROM dbo.employeeDemograph as a
+--inner join dbo.employSalary as b on
+--a.employID = b.employID;
+
+--SELECT *,
+--case 
+--	when a.age > 18 then 'adult'
+--	else 'underage'
+--end as category
+--from dbo.employeeDemograph as a;
+
+--select *,
+--case 
+--	when a.age >= 30 then 'old'
+--	when a.age between 18 and 29 then 'young'
+--	when a.age < 18 then 'underage'
+--	else ''
+--end as category
+--from employeeDemograph as a
+--where age is not null 
+--and jobTitle is not null;
