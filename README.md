@@ -11,5 +11,6 @@
        - UNION/UNION OPERATOR
        - CASE WHEN
        - HAVING
+       - UPDATING/DELETING DATA
 
-# last update: 11/21/2024
+# last update: 11/22/2024
