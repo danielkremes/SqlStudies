@@ -1,0 +1,24 @@
+-- CREATE TABLE WITH NAME NEW
+CREATE TABLE employeeDemograph_new (
+    employID INT IDENTITY(1,1) NOT NULL,
+    firstName VARCHAR(255) NOT NULL,
+    lastName VARCHAR(255) NOT NULL,
+    age INT,
+    gender VARCHAR(50) NOT NULL,
+    jobTitle VARCHAR(255) NOT NULL,
+    salary DECIMAL(10, 2) NOT NULL
+);
+
+-- COPY DATA FROM OLDEST TABLE AND LOAD FOR TABLE NEW
+INSERT INTO employeeDemograph_new (firstName, lastName, age, gender, jobTitle, salary)
+SELECT firstName, lastName, age, gender, jobTitle, salary
+FROM employeeDemograph;
+
+-- DELETE TABLE OLDEST
+DROP TABLE dbo.employeeDemograph;
+
+-- RENAME TABLE NEW FOR NAME OLDEST TABLE
+EXEC sp_rename 'employeeDemograph_new', 'employeeDemograph';
+
+-- SELECT FOR SEE CHANGES
+SELECT * FROM dbo.employeeDemograph as a;
