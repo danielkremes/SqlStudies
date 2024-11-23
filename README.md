@@ -1,6 +1,6 @@
 # SQL Study Progress
 
-A repository to document and track my progress in studying Java.
+A repository to document and track my progress in studying SQL.
 
 ## SQL basics: 
 - ✅ **CREATE TABLE, INSERT INTO**
@@ -16,6 +16,10 @@ A repository to document and track my progress in studying Java.
 - ✅ **UPDATING/DELETING DATA**
 - ✅ **ALIASING**
 - ✅ **PARTITION**
+
+## SQL advanced
+- 🔄 **CTE (COMMOM TABLE EXPRESSION)**
+- 🔄 **TEMP TABLES**
 
 ## About the Project
 
