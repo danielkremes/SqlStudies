@@ -47,9 +47,9 @@ This project serves as a collection of practice code. The topics are organized i
 | HAVING                    | ✅  Completed |
 | UPDATING/DELETING DATA                    | ✅  Completed |
 | ALIASING                    | ✅  Completed |
-| PARTITION                   | 🔄  Completed |
-| CTE (COMMOM TABLE EXPRESSION)                   | 🔄  Completed |
-| TEMP TABLES                   | 🔄  Completed |
+| PARTITION                   | 🔄  In Progress |
+| CTE (COMMOM TABLE EXPRESSION)                   | 🔄  In Progress |
+| TEMP TABLES                   | 🔄  In Progress |
 | STORED PROCEDURES                  | ✅  Completed |
 | STRNG FUNCTIONS(REPLACE, LOWER, UPPER, TRIM, LTRIM, RTRIM)                  | ✅  Completed |
 | SUBQURIES                  | ✅  Completed |
