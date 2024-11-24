@@ -15,11 +15,20 @@ A repository to document and track my progress in studying SQL.
 - ✅ **HAVING**
 - ✅ **UPDATING/DELETING DATA**
 - ✅ **ALIASING**
-- ✅ **PARTITION**
+- 🔄 **PARTITION**
 
 ## SQL advanced
 - 🔄 **CTE (COMMOM TABLE EXPRESSION)**
 - 🔄 **TEMP TABLES**
+- ✅ **STORED PROCEDURES**
+- ✅ **STRNG FUNCTIONS(REPLACE, LOWER, UPPER, TRIM, LTRIM, RTRIM)**
+- ✅ **SUBQURIES**
+
+## Database used
+- **SSMS (MICROSOFT)**
+
+## Learning (Youtube, Books, Courses Free - Pay, etc...)
+<img src="https://icons.iconarchive.com/icons/dakirby309/simply-styled/16/YouTube-icon.png" width="16" height="16"> [Data Analyst Bootcamp for Beginners (SQL, Tableau, Power BI, Python, Excel, Pandas, Projects, more)](https://www.youtube.com/watch?v=PSNXoAs2FtQ&list=PLzvh0LmBlZxnv6iJBrnhj4vRKdeXZqZSg)
 
 ## About the Project
 
@@ -38,8 +47,13 @@ This project serves as a collection of practice code. The topics are organized i
 | HAVING                    | ✅  Completed |
 | UPDATING/DELETING DATA                    | ✅  Completed |
 | ALIASING                    | ✅  Completed |
-| PARTITION                   | ✅  Completed |
+| PARTITION                   | 🔄  Completed |
+| CTE (COMMOM TABLE EXPRESSION)                   | 🔄  Completed |
+| TEMP TABLES                   | 🔄  Completed |
+| STORED PROCEDURES                  | ✅  Completed |
+| STRNG FUNCTIONS(REPLACE, LOWER, UPPER, TRIM, LTRIM, RTRIM)                  | ✅  Completed |
+| SUBQURIES                  | ✅  Completed |
 
 
-# last update: 11/22/2024
+# last update: 11/23/2024
 
