@@ -55,5 +55,5 @@ This project serves as a collection of practice code. The topics are organized i
 | SUBQURIES                  | ✅  Completed |
 
 
-# last update: 11/23/2024
+# last update: 11/24/2024
 
