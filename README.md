@@ -24,11 +24,25 @@ A repository to document and track my progress in studying SQL.
 - ✅ **STRNG FUNCTIONS(REPLACE, LOWER, UPPER, TRIM, LTRIM, RTRIM)**
 - ✅ **SUBQURIES**
 
+## Microsoft Learn Challenge
+- 🔄 **Get Started Querying with Transact-SQL**
+    - ✅ **Introduction to Transact-SQL**
+        - *Understand what SQL is for*
+        - *Identify database objects in schemas*
+        - *Identify SQL statement types*
+        - *Use the SELECT statement*
+        - *Work with data types*
+        - *Handle NULLs* 
+
 ## Database used
 - **SSMS (MICROSOFT)**
 
 ## Learning (Youtube, Books, Courses Free - Pay, etc...)
 <img src="https://icons.iconarchive.com/icons/dakirby309/simply-styled/16/YouTube-icon.png" width="16" height="16"> [Data Analyst Bootcamp for Beginners (SQL, Tableau, Power BI, Python, Excel, Pandas, Projects, more)](https://www.youtube.com/watch?v=PSNXoAs2FtQ&list=PLzvh0LmBlZxnv6iJBrnhj4vRKdeXZqZSg)
+
+
+[![Get Started Querying with Transact-SQL](https://learn.microsoft.com/en-us/training/achievements/get-started-querying-with-transact-sql.svg)](https://learn.microsoft.com/en-us/training/paths/get-started-querying-with-transact-sql/) Get Started Querying with Transact-SQL
+
 
 ## About the Project
 
@@ -53,7 +67,9 @@ This project serves as a collection of practice code. The topics are organized i
 | STORED PROCEDURES                  | ✅  Completed |
 | STRNG FUNCTIONS(REPLACE, LOWER, UPPER, TRIM, LTRIM, RTRIM)                  | ✅  Completed |
 | SUBQURIES                  | ✅  Completed |
+| COURSES MICROSOFT       | Status |
+| Get Started Querying with Transact-SQL                 | 🔄  In Progress ||
 
 
-# last update: 11/24/2024
+# last update: 11/30/2024
 
