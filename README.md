@@ -33,6 +33,12 @@ A repository to document and track my progress in studying SQL.
         - *Use the SELECT statement*
         - *Work with data types*
         - *Handle NULLs* 
+    - ✅ **Sort and filter results in T-SQL**
+        - *Sort your results*
+        - *Limit the sorted results*
+        - *Return paged results*
+        - *Remove duplicates*
+        - *Filter data with predicates*
 
 ## Database used
 - **SSMS (MICROSOFT)**
@@ -71,5 +77,5 @@ This project serves as a collection of practice code. The topics are organized i
 | Get Started Querying with Transact-SQL                 | 🔄  In Progress ||
 
 
-# last update: 11/30/2024
+# last update: 12/01/2024
 
