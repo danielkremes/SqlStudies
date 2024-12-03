@@ -40,6 +40,11 @@ A repository to document and track my progress in studying SQL.
         - *Remove duplicates*
         - *Filter data with predicates*
 
+    - ✅ **Describe join concepts and syntax**
+        - *Write queries that use inner and outer joins*
+        - *Write queries that use cross joins*
+        - *Write queries that use self joins*
+
 ## Database used
 - **SSMS (MICROSOFT)**
 
@@ -48,7 +53,6 @@ A repository to document and track my progress in studying SQL.
 
 
 [![Get Started Querying with Transact-SQL](https://learn.microsoft.com/en-us/training/achievements/get-started-querying-with-transact-sql.svg)](https://learn.microsoft.com/en-us/training/paths/get-started-querying-with-transact-sql/) Get Started Querying with Transact-SQL
-
 
 ## About the Project
 
@@ -77,5 +81,5 @@ This project serves as a collection of practice code. The topics are organized i
 | Get Started Querying with Transact-SQL                 | 🔄  In Progress ||
 
 
-# last update: 12/01/2024
+# last update: 12/02/2024
 
