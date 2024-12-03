@@ -45,6 +45,11 @@ A repository to document and track my progress in studying SQL.
         - *Write queries that use cross joins*
         - *Write queries that use self joins*
 
+    - ✅ **Write Subqueries in T-SQL**
+        - **Understand what subqueries are**
+        - **Use scalar or multi-valued subqueries**
+        - **Use self-contained or correlated subqueries**
+
 ## Database used
 - **SSMS (MICROSOFT)**
 
@@ -81,5 +86,5 @@ This project serves as a collection of practice code. The topics are organized i
 | Get Started Querying with Transact-SQL                 | 🔄  In Progress ||
 
 
-# last update: 12/02/2024
+# last update: 12/03/2024
 
