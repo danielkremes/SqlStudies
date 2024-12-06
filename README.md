@@ -46,9 +46,24 @@ A repository to document and track my progress in studying SQL.
         - *Write queries that use self joins*
 
     - ✅ **Write Subqueries in T-SQL**
-        - **Understand what subqueries are**
-        - **Use scalar or multi-valued subqueries**
-        - **Use self-contained or correlated subqueries**
+        - *Understand what subqueries are*
+        - *Use scalar or multi-valued subqueries*
+        - *Use self-contained or correlated subqueries*
+
+    - 🔄 **Use built-in functions and GROUP BY in Transact-SQL**
+        - *Categorize built-in functions*
+        - *Use scalar functions*
+        - *Use ranking and rowset functions*
+        - *Use aggregate functions*
+        - *Summarize data with GROUP BY*
+        - *Filter groups with HAVING*
+
+    - 🔄 **Modify data with T-SQL**
+        - *Insert data into a table*
+        - *Generate automatic values*
+        - *Update data in a table*
+        - *Delete data from a table*
+        - *Merge data based on multiple tables*
 
 ## Database used
 - **SSMS (MICROSOFT)**
@@ -86,5 +101,5 @@ This project serves as a collection of practice code. The topics are organized i
 | Get Started Querying with Transact-SQL                 | 🔄  In Progress ||
 
 
-# last update: 12/03/2024
+# last update: 12/05/2024
 
