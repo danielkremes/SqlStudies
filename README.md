@@ -25,7 +25,7 @@ A repository to document and track my progress in studying SQL.
 - ✅ **SUBQURIES**
 
 ## Microsoft Learn Challenge
-- 🔄 **Get Started Querying with Transact-SQL**
+- ✅ **Get Started Querying with Transact-SQL**
     - ✅ **Introduction to Transact-SQL**
         - *Understand what SQL is for*
         - *Identify database objects in schemas*
