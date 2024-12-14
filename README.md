@@ -65,8 +65,18 @@ A repository to document and track my progress in studying SQL.
         - *Delete data from a table*
         - *Merge data based on multiple tables*
 
+- 🔄 **Optimize query performance in Azure SQL**
+    - 🔄 **Explore query performance optimization**
+       - *Generate and save execution plans*
+       - *Compare the different types of execution plans*
+       - *Understand how and why query plans are generated*
+       - *Explain the purpose and benefits of the Query Store*
+       - *Investigate the available reports and data in the Query Store*
+
+
 ## Database used
 - **SSMS (MICROSOFT)**
+- **PG ADMIN(POSTGRESQL)**
 
 ## Learning (Youtube, Books, Courses Free - Pay, etc...)
 <img src="https://icons.iconarchive.com/icons/dakirby309/simply-styled/16/YouTube-icon.png" width="16" height="16"> [Data Analyst Bootcamp for Beginners (SQL, Tableau, Power BI, Python, Excel, Pandas, Projects, more)](https://www.youtube.com/watch?v=PSNXoAs2FtQ&list=PLzvh0LmBlZxnv6iJBrnhj4vRKdeXZqZSg)
@@ -101,5 +111,5 @@ This project serves as a collection of practice code. The topics are organized i
 | Get Started Querying with Transact-SQL                 | 🔄  In Progress ||
 
 
-# last update: 12/05/2024
+# last update: 12/14/2024
 
