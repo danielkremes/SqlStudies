@@ -28,12 +28,6 @@ A repository to document and track my progress in studying SQL.
 - **SSMS (MICROSOFT)**
 - **PG ADMIN(POSTGRESQL)**
 
-## Learning (Youtube, Books, Courses Free - Pay, etc...) 
-[Data Analyst Bootcamp for Beginners (SQL, Tableau, Power BI, Python, Excel, Pandas, Projects, more)](https://www.youtube.com/watch?v=PSNXoAs2FtQ&list=PLzvh0LmBlZxnv6iJBrnhj4vRKdeXZqZSg)
-
-[SQL - Santander Tech+](https://ada.tech/oportunidades/santander-tech-mais): Version 2024
-
-
 ## About the Project
 
 This project serves as a collection of practice code. The topics are organized into separate modules for better understanding and future reference.
