@@ -1,0 +1,43 @@
+/*select * from CUSTOMER;
+select * from CUSTOMER_ORDER;
+select * from PRODUCT;*/
+--select NAME,REGION from CUSTOMER;
+--select * from PRODUCT;
+/*
+select PRODUCT_ID,
+DESCRIPTION, 
+PRICE, 
+PRICE * 1.07 as taxed_price
+from PRODUCT;
+*/
+
+/*
+select 
+DESCRIPTION, 
+PRICE, 
+round(price * 1.07, 2) as taxed_price
+from PRODUCT;
+*/
+
+-- select * from CUSTOMER;
+
+/*select
+NAME,
+CITY || ',' || STATE as LOCATION
+from CUSTOMER;*/
+
+-- SELECT * FROM PRODUCT;
+
+/*
+select NAME, 
+STREET_ADDRESS || ',' || 
+CITY || ',' || 
+STATE || ',' || ZIP as SHIP_ADDRESS
+from CUSTOMER;
+*/
+
+
+
+
+
+
